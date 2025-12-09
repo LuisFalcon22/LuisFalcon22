@@ -31,7 +31,7 @@
 - :computer: I love front-end development, telecommunications networks, cybersecurity, and data analysis.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/drive/folders/1jHqXqQv9wPDD5XHActzzc2YNux7Eg51h?hl=es-419]).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1jHqXqQv9wPDD5XHActzzc2YNux7Eg51h?hl=es-419).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
